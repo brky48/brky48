@@ -6,20 +6,20 @@ I am a final-year **Management Information Systems** student at Istanbul Univers
 - 🔭 **Current Project:** Building a **Plant Disease Identification** system using **Deep Learning**.
 - 🧠 **AI Expertise:** Specialized in **Convolutional Neural Networks (CNNs)** and **Transfer Learning**.
 - 🎓 **Academic Focus:** Researching **Digital Marketing Attribution Models** (Markov Chains & Shapley Value).
-- 🌱 **Tech Stack:** Deep diving into **Shopify Liquid** for my brand and mastering **Advanced PL/SQL**.
+- 🌱 **Tech Stack:** Deep diving into **Shopify Liquid** for my brand **Refinee Collection** and mastering **Advanced PL/SQL**.
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,js,html,css,shopify,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,js,html,css,shopify,git,github,postman" />
   </a>
 </p>
 
 - **AI/ML:** CNN, Transfer Learning, Image Classification, Computer Vision.
-- **Data Science:** Data Analytics, Attribution Modeling, SQL Programming.
-- **E-commerce:** Shopify Theme Development, Brand Management.
+- **Data Science:** Data Analytics, Attribution Modeling, SQL Programming (PL/SQL).
+- **E-commerce:** Shopify Theme Development, Liquid, Brand Management.
 
 ---
 
@@ -30,7 +30,7 @@ Beyond the terminal, I’m an avid **traveler**. I find immense inspiration in e
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brky48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brky48&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
@@ -38,10 +38,18 @@ Beyond the terminal, I’m an avid **traveler**. I find immense inspiration in e
 
 ### 🔗 Connect & Technical Profiles
 <p align="left">
-  <a href="https://linkedin.com/in/berkay-korkut-71502324a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/berkaykorkut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" height="30" width="40" style="filter: invert(45%) sepia(90%) saturate(1500%) hue-rotate(180deg);" /></a>
-  <a href="https://huggingface.co/berkay48" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="40" /></a>
-  <a href="mailto:brkykrkt2003@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="35" width="35" /></a>
+  <a href="https://linkedin.com/in/berkay-korkut-71502324a" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/berkaykorkut" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://huggingface.co/berkay48" target="blank">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
+  </a>
+  <a href="mailto:brkykrkt2003@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
