@@ -29,7 +29,6 @@ Beyond the terminal, I’m an avid **traveler**. I find immense inspiration in e
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brky48&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brky48&layout=compact&langs_count=7&theme=tokyonight" />
