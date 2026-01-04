@@ -6,7 +6,7 @@ I am a final-year **Management Information Systems** student at Istanbul Univers
 - 🔭 **Current Project:** Building a **Plant Disease Identification** system using **Deep Learning**.
 - 🧠 **AI Expertise:** Specialized in **Convolutional Neural Networks (CNNs)** and **Transfer Learning**.
 - 🎓 **Academic Focus:** Researching **Digital Marketing Attribution Models** (Markov Chains & Shapley Value).
-- 🌱 **Tech Stack:** Deep diving into **Shopify Liquid** for my brand **Refinee Collection** and mastering **Advanced PL/SQL**.
+- 🌱 **Tech Stack:** Deep diving into **Shopify Liquid** for my brand and mastering **Advanced PL/SQL**.
 
 ---
 
